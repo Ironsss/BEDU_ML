@@ -1,4 +1,4 @@
-# BEDU_ML
+# Machine Learning ejercicios 2021
 
 > Ejercicios y Ejemplos de Machine Learning 
 
